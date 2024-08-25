@@ -1,0 +1,3 @@
+take the .stl file and derive layers from it to be converted to .svg
+
+pass svg to LightBurn to get the final cutting path
